@@ -3,7 +3,7 @@ let writeForce;
 let poetry;
 
 function setup() {
-  title = createElement('h2', "<a href='/PoeticCodeForNature'> >></a> 쿵쿵짝쿵");
+  title = createElement('h2', "<a href='/Gyuring's Website'> >></a> 쿵쿵짝쿵");
   title.position(10, 10);
 
   canvas = createCanvas(300, 100);
