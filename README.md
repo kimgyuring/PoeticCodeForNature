@@ -1,7 +1,7 @@
 http://kimgyuring.github.io/PoeticCodeForNature/
 
 ## 김규리
-고양이, 필름사진, 밀크티, 카더가든 좋아합니다
+고양이, 필름사진, 밀크티, 카더가든 
 
 
 
