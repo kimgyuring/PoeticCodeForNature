@@ -1,7 +1,7 @@
-http://kimgyuring.github.io/PoeticCodeForNature/
+Address: http://kimgyuring.github.io/PoeticCodeForNature/
 
 ## 김규리
-고양이, 필름사진, 밀크티, 카더가든 
+고양이, 필름사진, 밀크티, 카더가든
 
 
 
