@@ -1,9 +1,9 @@
-주소 http://kimgyuring.github.io/PoeticCodeForNature/
+http://kimgyuring.github.io/PoeticCodeForNature/
 
 ## 김규리
- 핑크색 하늘을 보고 싶어요.
+ 필름
 
- 
+
 
 ## 작업
 ----
