@@ -1,5 +1,6 @@
 title: 🍊's Website
-logo: /.1.PNG
+"title.background": "#002b36"
+logo: ./1.PNG
 description: 💖🍑🍧🍰🍵📷🔮
 google_analytics:
 theme: jekyll-theme-minimal
