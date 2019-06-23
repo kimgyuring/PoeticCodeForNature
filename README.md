@@ -1,9 +1,9 @@
 ## Kim Gyu Ri
 Love
-Cats
-Film Photography
-Milk tea
-Car The Gaden's Music
+* Cats
+* Film Photography
+* Milk tea
+* Car The Gaden's Music
 
 ## Works
 ### [Shapes Of Color](./Shapes Of Color/)
