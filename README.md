@@ -6,8 +6,8 @@ love cats, filmphotography, milk tea, car the gaden's music
 
 ## Works
 ----
-### [예시 작업](./example/)
-![예시 이미지](./example_img.png)
+### [Shapes Of Colors](./Shapes Of Colors/)
+![예시 이미지](./Shapes Of Colors.png)
 
 
 ----
