@@ -12,4 +12,4 @@ Falling in Love with
 ![예시 이미지](./Shapes Of Colors.png)
 
 ### [Color Of Waves](./Color Of Waves/)
-![예시 이미지](./Color Of Waves.png)
+![예시 이미지](./Color Of Wave.png)
