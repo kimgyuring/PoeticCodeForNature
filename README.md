@@ -1,5 +1,5 @@
 ## Kim Gyu Ri
-❤️❤️❤️❤️❤️❤️
+Things that I ❤️ :
 * Cats 🐱
 * Film Photography 🎞
 * Milk tea 🍵
