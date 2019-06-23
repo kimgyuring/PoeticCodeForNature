@@ -1,6 +1,11 @@
 title: 🍊's Website
+<<<<<<< HEAD
 logo: ./13.png
 description: 🧡💛🧡💛🧡📸🧡💛🧡💛🧡
+=======
+logo: ./12.png
+description: 🧡💛🧡💛🧡💛📸🧡💛🧡💛🧡💛
+>>>>>>> c235f01f7af68a07b359452c662ba1e6a56f93ea
 google_analytics:
 theme: jekyll-theme-minimal
 url: https://kimgyuring.github.io/PoeticCodeForNature/
