@@ -1,7 +1,7 @@
 ## Kim Gyu Ri
 Falling in Love with
 * Cats🐱
-* Film Photography📷
+* Film Photography🎞
 * Milk tea🍵
 * Car The Gaden's Music🎧
 
