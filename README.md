@@ -1,5 +1,3 @@
-# All about my Works
-
 ## Kim Gyu Ri
 love cats, filmphotography, milk tea, car the gaden's music
 
