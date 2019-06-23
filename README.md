@@ -4,7 +4,7 @@ https://kimgyuring.github.io/PoeticCodeForNature/
 love cats, filmphotography, milk tea, car the gaden's music
 
 ## Works
-### [Shapes Of Colors](./Shapes Of Colors/)
+### [Shapes Of Color](./Shapes Of Colors/)
 ![예시 이미지](./Shapes Of Colors.png)
 ----
 ### [쿵쿵짝쿵 공을 튕기네](./ex01/)
