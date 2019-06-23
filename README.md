@@ -7,7 +7,7 @@ Falling in Love with
 
 ## Works
 ---
-## Color Series
+## Color
 ### [Shapes Of Color](./Shapes Of Color/)
 ![예시 이미지](./Shapes Of Colors.png)
 
