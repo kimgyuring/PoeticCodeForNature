@@ -1,10 +1,10 @@
 
 
-## 김규리
-고양이, 필름사진, 밀크티, 카더가든
+## Kim Gyu Ri
+love cats, filmphotography, milk tea, car the gaden's music
 
 
-## 작업
+## Works
 ----
 ### [예시 작업](./example/)
 ![예시 이미지](./example_img.png)
