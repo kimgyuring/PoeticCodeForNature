@@ -25,3 +25,14 @@
 
 ---
 ## Final
+### [Purple Rain Drops](./Purple Rain Drops/)
+![예시 이미지](./Purple Rain Drops.png)
+* Move your mouse towards the frame 
+
+### [Leaf Layers](./Leaf Layers/)
+![예시 이미지](./Leaf Layers.png)
+* Draw leaves with your mouse
+
+### [Mirrorball](./Mirrorball/)
+![예시 이미지](./Mirrorball.png)
+* Click left button of your mouse if you want to reset
