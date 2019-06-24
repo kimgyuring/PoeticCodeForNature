@@ -35,4 +35,4 @@
 
 ### [Mirrorball](./Mirrorball/)
 ![예시 이미지](./Mirrorball.png)
-* Click left button of your mouse if you want to reset
+* Click left button of your mouse if you want to restart
