@@ -27,7 +27,7 @@
 ## Final
 ### [Purple Rain Drops](./Purple Rain Drops/)
 ![예시 이미지](./Purple Rain Drops.png)
-* Move your mouse towards the frame 
+* Move your mouse left or right to control speed 
 
 ### [Leaf Layers](./Leaf Layers/)
 ![예시 이미지](./Leaf Layers.png)
